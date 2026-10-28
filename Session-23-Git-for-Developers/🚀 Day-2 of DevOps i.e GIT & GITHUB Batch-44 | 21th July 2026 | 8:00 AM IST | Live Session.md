@@ -199,7 +199,7 @@ Practice git fetch, git pull, git merge, and git rebase.
 Create Git tags for different application versions.
 Publish a LinkedIn post summarizing your Git & GitHub learning.
 Complete pending Linux and AWS modules before the next class.
-Prepare Git and GitHub interview questions for discussion.
+Prepare Git and GitHub interview questions.
 Get ready for the next module: Jenkins & CI/CD Pipeline Automation.
 
 
